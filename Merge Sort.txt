@@ -1,0 +1,137 @@
+algoritmo "numero ordenados"
+// Função :
+// Autor :
+// Data : 15/05/2023
+// Seção de Declarações 
+ var
+ vet:vetor[3..12]de real
+ v:vetor[4..14]de real
+inicio
+escreva("digite um numero")
+leia(vet[3])
+1.escreva("digita um numero")
+leia(vet[5])
+escreva("digite um nummero")
+leia(vet[7])
+    escreva("digite um numero")
+    leia(vet[10])
+    escreva("digite um numero")
+    leia(vet[11])
+    escreva("digite um numero")
+    leia(vet[12])
+     escreva("digite mais uma sequecioa de numero")
+     leia(v[4])
+     escreva("digite mais uma sequecioa de numero")
+     leia(v[6])
+     escreva("digite mais uma sequecia dxe numero")
+     leia(v[8])
+     escreva("dite mais uma sequecia de nuemro")
+     leia(v[9])
+     escreva("digite mais uma seque cia de numero")
+     leia(v[11])
+     escreva("digite mais uma sequecia de numero")
+     leia (v[13])
+    escreva("digite mais uma sequecia de numero")
+    leia(v[14])
+     
+fimalgoritmo 
+copilador 
+digite um numero 3
+digita um numero 5
+digite um nummero 7
+digite um numero 10
+digite um numero 11
+digite um numero 12
+digite mais uma sequecioa de numero 4
+digite mais uma sequecioa de numero 6
+digite mais uma sequecia dxe numero 8
+dite mais uma sequecia de nuemro 9
+digite mais uma seque cia de numero 11
+digite mais uma sequecia de numero 13
+digite mais uma sequecia de numero 14
+
+*** Fim da execução.
+*** Feche esta janela para retornar ao Visualg.
+
+
+2
+var
+vet:vetor[6..715]de real
+cont=inteiro
+inicio
+ escreva("digite os numeros")
+ leia(vet)
+ cont->vet
+ escree("digite os numero contando")
+ leia(cont)
+ para cont 6 ate 715 faca
+ cont<-vet
+ fimpara
+fimalgoritmo
+escreva("digite um numero")
+    leia(vet[7])
+    escreva("digite um numero")
+    leia(vet[5])
+    escreva("digite um numero")
+    leia(vet[3])
+     escreva("digite mais uma sequecioa de numero")
+     leia(v[14])
+     escreva("digite mais uma sequecioa de numero")
+     leia(v[13])
+     escreva("digite mais uma sequecia dxe numero")
+     leia(v[11])
+     escreva("dite mais uma sequecia de nuemro")
+     leia(v[9])
+     escreva("digite mais uma seque cia de numero")
+     leia(v[8])
+     escreva("digite mais uma sequecia de numero")
+     leia (v[6])
+    escreva("digite mais uma sequecia de numero")
+    leia(v[4])
+3 escreva("digite um numero")
+    leia(vet[7])
+    escreva("digite um numero")
+    leia(vet[5])
+    escreva("digite um numero")
+    leia(vet[3])
+     escreva("digite mais uma sequecioa de numero")
+     leia(v[14])
+     escreva("digite mais uma sequecioa de numero")
+     leia(v[13])
+     escreva("digite mais uma sequecia dxe numero")
+     leia(v[11])
+     escreva("dite mais uma sequecia de nuemro")
+     leia(v[9])
+     escreva("digite mais uma seque cia de numero")
+     leia(v[8])
+     escreva("digite mais uma sequecia de numero")
+     leia (v[6])
+    escreva("digite mais uma sequecia de numero")
+    leia(v[4])
+ Início da execução
+digite um numero 12
+digita um numero 11
+digite um nummero 10
+digite um numero 7
+digite um numero 5
+digite um numero 3
+digite mais uma sequecioa de numero 14
+digite mais uma sequecioa de numero 13
+digite mais uma sequecia dxe numero 11
+dite mais uma sequecia de nuemro 9
+digite mais uma sequecia de numero 8
+digite mais uma sequecia de numero 6
+digite mais uma sequecia de numero 4
+
+ 4 var
+vet:vetor[2]de real
+x:inteiro
+s:inteiro
+inicio
+ escreva("digite o primeiro valor de x")
+ leia(x)
+ escreva("digite o segundo valor x")
+ leia(x)
+ vetor [s->x+x]
+ escreva("a soma ",x)
+fimalgoritmo
